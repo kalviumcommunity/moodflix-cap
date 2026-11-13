@@ -92,7 +92,7 @@
 - ✅ Protected routes (frontend & backend)
 - ✅ Role-based access control (user/admin)
 - ✅ Password hashing with bcrypt
-
+([Complete], [In Progress], [Planned])
 ### Mood-Based Recommendations
 - ✅ 10 mood options (happy, sad, excited, relaxed, romantic, scared, nostalgic, adventurous, thoughtful, energetic)
 - ✅ Mood-to-genre mapping
