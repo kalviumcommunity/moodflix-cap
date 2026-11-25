@@ -229,3 +229,10 @@ Backend URL: YOUR_BACKEND_URL
 - Initialized the frontend using React and Vite.
 - Configured frontend dependencies and scripts.
 - Established the application entry point.
+### 2.14 – Frontend Deployment
+- Built the React application for production.
+- Deployed the frontend application.
+- Configured the production backend API URL.
+- Verified the deployed application.
+
+Frontend URL: YOUR_FRONTEND_URL
