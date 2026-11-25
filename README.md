@@ -236,3 +236,13 @@ Backend URL: YOUR_BACKEND_URL
 - Verified the deployed application.
 
 Frontend URL: YOUR_FRONTEND_URL
+### 2.15 – React Components
+- Created reusable React components.
+- Implemented component-based UI architecture.
+- Used props and component composition.
+- Integrated components into application pages.
+### 2.16 – UI Design and Final State
+- Implemented the application's final UI design.
+- Matched layouts, typography and visual styling.
+- Improved responsive behavior.
+- Verified the final application state.
