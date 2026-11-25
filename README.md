@@ -251,3 +251,8 @@ Frontend URL: YOUR_FRONTEND_URL
 - Integrated frontend file selection.
 - Handled file uploads through the backend.
 - Implemented upload validation and error handling.
+### 2.18 – Username and Password Authentication
+- Implemented user registration and login.
+- Added password hashing.
+- Implemented credential verification.
+- Added authentication error handling.
