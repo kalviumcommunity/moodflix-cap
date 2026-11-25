@@ -246,3 +246,8 @@ Frontend URL: YOUR_FRONTEND_URL
 - Matched layouts, typography and visual styling.
 - Improved responsive behavior.
 - Verified the final application state.
+### 2.17 – File Upload
+- Implemented file upload functionality.
+- Integrated frontend file selection.
+- Handled file uploads through the backend.
+- Implemented upload validation and error handling.
