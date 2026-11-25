@@ -225,3 +225,7 @@ Backend URL: YOUR_BACKEND_URL
 - Implemented relationships between database entities.
 - Used Mongoose references to connect related records.
 - Retrieved related data using population where required.
+### 2.13 – React Application Setup
+- Initialized the frontend using React and Vite.
+- Configured frontend dependencies and scripts.
+- Established the application entry point.
