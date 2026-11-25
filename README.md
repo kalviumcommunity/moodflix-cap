@@ -256,3 +256,8 @@ Frontend URL: YOUR_FRONTEND_URL
 - Added password hashing.
 - Implemented credential verification.
 - Added authentication error handling.
+### 2.19 – Google Authentication
+- Integrated Google third-party authentication.
+- Configured OAuth credentials.
+- Implemented Google authentication flow.
+- Handled authenticated user information.
