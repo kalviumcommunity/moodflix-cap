@@ -246,3 +246,18 @@ Frontend URL: YOUR_FRONTEND_URL
 - Matched layouts, typography and visual styling.
 - Improved responsive behavior.
 - Verified the final application state.
+### 2.17 – File Upload
+- Implemented file upload functionality.
+- Integrated frontend file selection.
+- Handled file uploads through the backend.
+- Implemented upload validation and error handling.
+### 2.18 – Username and Password Authentication
+- Implemented user registration and login.
+- Added password hashing.
+- Implemented credential verification.
+- Added authentication error handling.
+### 2.19 – Google Authentication
+- Integrated Google third-party authentication.
+- Configured OAuth credentials.
+- Implemented Google authentication flow.
+- Handled authenticated user information.
