@@ -266,3 +266,14 @@ Frontend URL: YOUR_FRONTEND_URL
 - Connected frontend update operations to the backend.
 - Implemented entity deletion.
 - Updated the UI after CRUD operations.
+### 2.21 – Bruno API Templates
+- Updated Bruno API request collections.
+- Organized API requests by functionality.
+- Added request headers and sample payloads.
+- Verified API endpoints using Bruno.
+### 2.22 – JWT Authentication
+- Implemented JSON Web Token generation.
+- Configured token expiration.
+- Added JWT verification middleware.
+- Protected authenticated API routes.
+- Implemented token-based authorization.
