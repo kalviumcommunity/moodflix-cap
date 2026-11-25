@@ -200,3 +200,8 @@ This project is for educational purposes.
 - Handled incoming request payloads.
 - Validated and stored submitted data.
 - Tested API requests using Bruno.
+### 2.8 – PUT API
+- Implemented PUT endpoints for updating records.
+- Used route parameters to identify entities.
+- Updated database records using request payloads.
+- Tested update operations using Bruno.
