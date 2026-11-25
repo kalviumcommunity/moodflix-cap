@@ -191,4 +191,12 @@ This is a capstone project. For questions or issues, please contact the project 
 ## 📄 License
 
 This project is for educational purposes.
-capstone project GitHub PR
+### 2.6 – GET API
+- Implemented GET endpoints using Express.
+- Retrieved application data from the backend.
+- Tested endpoints using Bruno.
+### 2.7 – POST API
+- Implemented POST endpoints using Express.
+- Handled incoming request payloads.
+- Validated and stored submitted data.
+- Tested API requests using Bruno.
