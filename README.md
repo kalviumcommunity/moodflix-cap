@@ -261,3 +261,8 @@ Frontend URL: YOUR_FRONTEND_URL
 - Configured OAuth credentials.
 - Implemented Google authentication flow.
 - Handled authenticated user information.
+### 2.20 – Frontend Update and Delete
+- Implemented entity editing functionality.
+- Connected frontend update operations to the backend.
+- Implemented entity deletion.
+- Updated the UI after CRUD operations.
