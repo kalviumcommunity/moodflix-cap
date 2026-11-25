@@ -212,3 +212,7 @@ This project is for educational purposes.
 - Verified API availability using the public URL.
 
 Backend URL: YOUR_BACKEND_URL
+### 2.10 – Database Schema
+- Created MongoDB schemas using Mongoose.
+- Defined entity fields and their data types.
+- Added validation rules and schema constraints.
