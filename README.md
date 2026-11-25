@@ -191,7 +191,4 @@ This is a capstone project. For questions or issues, please contact the project 
 ## 📄 License
 
 This project is for educational purposes.
-### 2.6 – GET API
-- Implemented GET endpoints using Express.
-- Retrieved application data from the backend.
-- Tested endpoints using Bruno.
+capstone project GitHub PR
