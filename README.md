@@ -205,3 +205,10 @@ This project is for educational purposes.
 - Used route parameters to identify entities.
 - Updated database records using request payloads.
 - Tested update operations using Bruno.
+### 2.9 – Backend Deployment
+- Deployed the Express backend server.
+- Configured production environment variables.
+- Connected the deployed server to the database.
+- Verified API availability using the public URL.
+
+Backend URL: YOUR_BACKEND_URL
