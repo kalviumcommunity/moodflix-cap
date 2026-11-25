@@ -216,3 +216,8 @@ Backend URL: YOUR_BACKEND_URL
 - Created MongoDB schemas using Mongoose.
 - Defined entity fields and their data types.
 - Added validation rules and schema constraints.
+### 2.11 – Database Read and Write
+- Connected the application to MongoDB.
+- Implemented database write operations.
+- Implemented database read operations.
+- Verified data persistence and retrieval.
