@@ -221,3 +221,7 @@ Backend URL: YOUR_BACKEND_URL
 - Implemented database write operations.
 - Implemented database read operations.
 - Verified data persistence and retrieval.
+### 2.12 – Database Relationships
+- Implemented relationships between database entities.
+- Used Mongoose references to connect related records.
+- Retrieved related data using population where required.
